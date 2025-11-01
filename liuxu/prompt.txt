@@ -1,0 +1,2 @@
+Prompt:collage classroom, ((realistic)), indoor, (long desk), (chairs), books oh the table, school bag, computer, blackboard,
+Negative Prompt: cartoon
