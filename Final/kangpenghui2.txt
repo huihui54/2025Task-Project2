@@ -1,0 +1,24 @@
+ 一、背景层提示词
+正向：glowing blue and purple data streams, (futuristic digital campus:1.2), minimalist lines, clean layout, bright lighting, AI robot silhouette, (glowing circuit patterns:1.1), student-friendly aesthetic, high contrast, 8k resolution
+负向：blurry, dark, cluttered, low resolution, ugly, distorted, text overlaps, complex gradients
+
+二、部门图标层提示词
+1.技术部
+正向：(AI technology icon:1.2), flat design, blue color, circuit board pattern, minimalist robot, transparent background
+负向：background color, complex details, 3D rendering, shadow, text, ugly shapes
+
+2. 宣传部
+正向：(AIGC design icon:1.2), flat design, pink color, paint brush + digital screen, creative elements, transparent background
+负向：background color, complex details, 3D rendering, shadow, text, ugly shapes
+
+3.办公室
+正向：(management icon:1.2), flat design, green color, organized files + team handshake, simple lines, transparent background
+负向：background color, complex details, 3D rendering, shadow, text, ugly shapes
+
+4.工作坊
+正向：(metaverse voxel icon:1.2), flat design, yellow color, 3D cube + Minecraft elements, pixel art style, transparent background
+负向：background color, complex details, 3D rendering, shadow, text, ugly shapes
+
+三、点缀元素层提示词
+正向：(minimalist tech symbols:1.1), glowing chip, code lines, pixel blocks, virtual character avatar, scattered distribution, transparent background, monochrome blue, small size
+负向：large, obtrusive, colorful, blurry, complex
